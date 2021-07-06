@@ -1,2 +1,2 @@
-# Blog
-diseño de un blog html y ccs
+# xCOVID
+Se encuetra el modelo de la red y el servicio
